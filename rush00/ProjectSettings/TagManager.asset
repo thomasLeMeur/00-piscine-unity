@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint
+  - Wall
+  - Enemy
+  - weapon
+  - ammo
+  - exit
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - BlockLos
+  - Enemy
+  - door
+  - ammo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: map
+    uniqueID: 1847342381
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 2431782069
+    locked: 0
+  - name: Legs
+    uniqueID: 1760651085
+    locked: 0
+  - name: Body
+    uniqueID: 3612869145
+    locked: 0
+  - name: weapon
+    uniqueID: 2910164121
+    locked: 0
+  - name: Head
+    uniqueID: 1867821533
+    locked: 0
+  - name: UI
+    uniqueID: 2279041775
+    locked: 0
